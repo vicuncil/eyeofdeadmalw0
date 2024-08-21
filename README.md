@@ -7,11 +7,11 @@ Displaying Moving Windows: It creates multiple moving windows with a message, wh
 Opening a Web Image: It opens a specific image in the web browser.
 Setting a Scary Wallpaper: It downloads an image from the web and sets it as the desktop wallpaper.
 Warning: This script is designed for malware simulate purposes and might cause frustration or disruption. It should be used responsibly and only on systems where you have permission.
------------------------------------------------------------------------------------
+
 To make Program file executable
 open cmd
 pip install pyinstaller
 go do direcory Program.py
 python -m PyInstaller --onefile --windowed Program.py  
-
+-------------------------------------------------------------------------------------
 https://github.com/user-attachments/assets/36040d4a-0bc2-4f8e-9bc6-9670ce1bf2d8
