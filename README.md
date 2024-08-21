@@ -10,3 +10,8 @@ Warning: This script is designed for malware simulate purposes and might cause f
 
 https://github.com/user-attachments/assets/36040d4a-0bc2-4f8e-9bc6-9670ce1bf2d8
 
+#To make Program file executable
+open cmd
+pip install pyinstaller
+go do direcory Program.py
+python -m PyInstaller --onefile --windowed Program.py  
